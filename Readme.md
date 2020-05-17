@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Наталья Мизикевич](https://up.htmlacademy.ru/htmlcss/28/user/1002157).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Мусаэльян] (https://career.htmlacademy.ru/league/applicants/124940).
 
 ---
 
